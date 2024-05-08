@@ -1,0 +1,66 @@
+[
+{
+"title": "Project",
+"links": [
+{
+"text": "dbx.so",
+"url": "https://dbx.so/"
+}
+]
+},
+{
+"title": "Social links",
+"links": [
+{
+"text": "Telegram",
+"url": "https://t.me/dbx_network"
+},
+{
+"text": "Linkedin",
+"url": "https://www.linkedin.com/company/dbx-digital-ecosystem"
+},
+{
+"text": "Twitter",
+"url": "https://twitter.com/dbx_network"
+},
+{
+"text": "Crunchbase",
+"url": "https://www.crunchbase.com/organization/dbx-digital-ecosystem"
+}
+]
+},
+{
+"title": "Community",
+"links": [
+{
+"text": "DBX_WORLD",
+"url": "https://t.me/dbxnetwork"
+},
+{
+"text": "DBX_ENG",
+"url": "https://t.me/dbx_English"
+},
+{
+"text": "DBX_RUS",
+"url": "https://t.me/dbx_Rus"
+},
+{
+"text": "DBX_TURK",
+"url": "https://t.me/dbx_Turk"
+}
+]
+},
+{
+"title": "Price Trackers",
+"links": [
+{
+"text": "coinmarketcap.com",
+"url": "https://coinmarketcap.com/currencies/dbx/"
+},
+{
+"text": "coingecko.com",
+"url": "https://www.coingecko.com/en/coins/dbx"
+}
+]
+}
+]
